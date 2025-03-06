@@ -1,2 +1,3 @@
 jalase1 = https://drive.google.com/file/d/1zSVJ77pdhi-8MSVXTVaD-sMSHT7YeGTv/view?usp=sharing
 jalase2 = https://drive.google.com/file/d/1jUgdhF1515vYqLjxwrHZ32iBTD37fzhP/view?usp=sharing
+jalase3 = https://drive.google.com/file/d/1yvyds4sCjbeUYTNC3pYA0QEjI2STIB-5/view?usp=sharing
